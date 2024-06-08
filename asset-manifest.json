@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/new_Birthday/static/css/main.c74b830c.css",
+    "main.js": "/new_Birthday/static/js/main.e42e29cc.js",
+    "static/js/453.64512fd7.chunk.js": "/new_Birthday/static/js/453.64512fd7.chunk.js",
+    "static/media/img2.jpg": "/new_Birthday/static/media/img2.47b89204ca82d5207634.jpg",
+    "static/media/img4.jpg": "/new_Birthday/static/media/img4.a6ad4ec70fcc4c0c969c.jpg",
+    "static/media/img6.jpg": "/new_Birthday/static/media/img6.c249d74fe1487203adad.jpg",
+    "static/media/IMG_20240520_162555.jpg": "/new_Birthday/static/media/IMG_20240520_162555.50ebd667fcb39eb9a46e.jpg",
+    "static/media/img3.jpg": "/new_Birthday/static/media/img3.50ebd667fcb39eb9a46e.jpg",
+    "index.html": "/new_Birthday/index.html",
+    "main.c74b830c.css.map": "/new_Birthday/static/css/main.c74b830c.css.map",
+    "main.e42e29cc.js.map": "/new_Birthday/static/js/main.e42e29cc.js.map",
+    "453.64512fd7.chunk.js.map": "/new_Birthday/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c74b830c.css",
+    "static/js/main.e42e29cc.js"
+  ]
+}
